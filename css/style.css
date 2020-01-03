@@ -249,7 +249,7 @@ nav {
 
 .intro {
     position: relative;
-    max-width: 1024px;
+    max-width: 768px;
     margin-top: 10px;
     margin-bottom: 50px;
     display: inline-flex;
