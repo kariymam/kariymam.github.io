@@ -278,8 +278,7 @@ nav {
 #icon {
     color: #000;
     border-radius: 100%;
-    background-image: linear-gradient(#ffd900, #ffd900);
-    background-repeat: no-repeat;
+    background-color: #ffd900;
     background-size: 100% 50px;
     padding: 10px;
 }
